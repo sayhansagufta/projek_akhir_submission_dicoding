@@ -67,48 +67,38 @@ body {
 }
 
 .fake-img1 {
-  background: url(https://cdn.pixabay.com/photo/2024/02/08/02/53/digital-8560051_640.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
   width: 100%;
-  padding: 20px;
 }
 
 .fake-img2 {
-  background: url(https://cdn.pixabay.com/photo/2020/04/02/22/05/home-office-4996834_640.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
   width: 100%;
-  padding: 20px;
 }
 
 .fake-img3 {
-  background: url(https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_1280.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
   width: 100%;
-  padding: 20px;
 }
 
 .fake-img4 {
-  background: url(https://cdn.pixabay.com/photo/2018/07/14/11/28/blockchain-3537389_640.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
   width: 100%;
-  padding: 20px;
 }
 
 .fake-img5 {
-  background: url(https://cdn.pixabay.com/photo/2014/02/13/07/28/security-265130_640.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
   width: 100%;
-  padding: 20px;
 }
 
 .sidebar {
